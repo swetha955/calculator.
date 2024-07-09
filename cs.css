@@ -1,0 +1,11 @@
+body {
+    background-image: url("blank-notepad-calculator-copy-space_23-2148475383.jpg");
+    background-color: #cccccc;
+    background-size: cover;
+    background-attachment: fixed;
+   }
+   img {
+    display:block;
+    width: 800px;
+    height: 600px;
+}
